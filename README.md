@@ -1,4 +1,4 @@
-# Laravel-Tasks
+# Laravel-Tasks / Le code ce trouve dans la branch master
 
 Utilisateur BDD :
 Crée un utilisateur sur votre base de données qui se connecte à une base appeler "laravel"
